@@ -1,0 +1,13 @@
+{
+  "task": "selector",
+  "seed": 17,
+  "base_model": "microsoft/MiniLM-L12-H384-uncased",
+  "history": [
+    {
+      "epoch": 1,
+      "validation_loss": 0.6788549025853475
+    }
+  ],
+  "device": "cuda",
+  "trainable_parameters": 148226
+}

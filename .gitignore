@@ -1,0 +1,19 @@
+# Exclude LaTeX source files
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.swp
+
+# Exclude data folder
+**/data/
+
+# OS files
+.DS_Store
+Thumbs.db

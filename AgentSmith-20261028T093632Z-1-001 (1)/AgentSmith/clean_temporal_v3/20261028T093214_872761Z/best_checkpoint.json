@@ -1,0 +1,12 @@
+{
+  "best_epoch": 6,
+  "metrics": {
+    "loss": 1.080474970958851,
+    "accuracy": 0.4925925925925926,
+    "macro_f1": 0.3953985433258458
+  },
+  "save_reload_max_difference": 0.0,
+  "checkpoint": "/content/drive/MyDrive/AgentSmith/clean_temporal_v3/20261028T093214_872761Z/monitor_full_finetune",
+  "train_sha256": "03abb2e407211f06541b448fb5decaaea88bcda65733ede926faf3c8ed72e596",
+  "validation_sha256": "8d0b9ecbec4926a4e53565f7a8384ef2c184c789b8a69da75b8dbe9cb3dc71f0"
+}
