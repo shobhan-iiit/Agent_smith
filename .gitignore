@@ -17,3 +17,4 @@
 # OS files
 .DS_Store
 Thumbs.db
+**/monitor_full_finetune/model.safetensors
